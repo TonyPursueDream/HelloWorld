@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.mypy/cache/
+###############
+# MY NEW IGNORES
+out/*
